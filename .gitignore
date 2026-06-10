@@ -1,3 +1,11 @@
+*.csv
+
+
+.DS_Store
+Thumbs.db
+
+
+
 # History files
 .Rhistory
 .Rapp.history
